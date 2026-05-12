@@ -31,7 +31,53 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+      <img width="697" height="508" alt="image" src="https://github.com/user-attachments/assets/936f35cb-39cd-42f2-9d7e-3c09c68132b5" />
+      <img width="783" height="365" alt="image" src="https://github.com/user-attachments/assets/0b62e340-e87b-43c6-a55d-c284728015f1" />
+      <img width="802" height="461" alt="image" src="https://github.com/user-attachments/assets/91682c2e-a0c5-4e7c-bf9e-a44b14bdaf63" />
+<img width="712" height="547" alt="image" src="https://github.com/user-attachments/assets/f272d348-96e9-4507-97bb-a93fae17d714" />
+<img width="852" height="598" alt="image" src="https://github.com/user-attachments/assets/33239745-6b77-4fff-8307-ca28b582a7f4" />
+<img width="870" height="436" alt="image" src="https://github.com/user-attachments/assets/05761c77-2564-4354-a8a8-975c5882d5bd" />
+<img width="872" height="567" alt="image" src="https://github.com/user-attachments/assets/d6e980ed-15c0-4813-af84-3da19a915170" />
+<img width="766" height="497" alt="image" src="https://github.com/user-attachments/assets/d2426020-1f11-47cb-85d6-9af46e0c85e0" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="822" height="611" alt="image" src="https://github.com/user-attachments/assets/53414735-4194-448e-841c-59d485ab50d9" />
+<img width="540" height="177" alt="image" src="https://github.com/user-attachments/assets/8355ffa3-5c44-43ce-a5f2-2ddf4a40bcb3" />
+<img width="801" height="346" alt="image" src="https://github.com/user-attachments/assets/145fcda3-7805-41a0-9f6b-39cc91d9110a" />
+<img width="785" height="360" alt="image" src="https://github.com/user-attachments/assets/5f29136d-71b3-4999-8bcd-25d3bbf1491e" />
+<img width="801" height="326" alt="image" src="https://github.com/user-attachments/assets/dbe08b38-a036-4071-8425-b4febd2bdada" />
+<img width="777" height="342" alt="image" src="https://github.com/user-attachments/assets/9841b683-08ce-4b16-bfb4-09367c7bfc45" />
+<img width="907" height="551" alt="image" src="https://github.com/user-attachments/assets/e2e6c385-df24-40e6-9ac4-400851821bfb" />
+<img width="890" height="577" alt="image" src="https://github.com/user-attachments/assets/b996ecf2-d9fd-4360-87b4-5e39dbf290fb" />
+<img width="876" height="660" alt="image" src="https://github.com/user-attachments/assets/653a85ef-c13f-46b8-b2c1-67a2879841a4" />
+<img width="912" height="626" alt="image" src="https://github.com/user-attachments/assets/afd0b9ad-b343-45c2-8720-34ec26a3582c" />
+<img width="1087" height="263" alt="image" src="https://github.com/user-attachments/assets/795b0fe4-4dcc-4be0-b249-20e1a5a1b88d" />
+<img width="387" height="291" alt="image" src="https://github.com/user-attachments/assets/d5b17602-3c39-4e25-98e9-21e00037f2ed" />
+<img width="1126" height="557" alt="image" src="https://github.com/user-attachments/assets/d42f21a5-8310-4edb-9e1d-2a677f2c42d6" />
+<img width="797" height="641" alt="image" src="https://github.com/user-attachments/assets/493d8b05-0cc2-4c54-a73a-55b23d44fcd4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
